@@ -4,4 +4,4 @@ Estado del proyecto: En construcción.
 
 Para ejecutar el sitema, debes poner:
 
-```npm install react¨```
+```npm install react```
